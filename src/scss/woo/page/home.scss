@@ -49,3 +49,16 @@
         justify-content: center;
     }
 }
+
+.homeNews {
+    .owl-stage {
+        display: flex;
+        min-height: 100%;
+       
+    }
+    .owl-carousel .owl-item  {
+        display: flex;
+        flex:  1 1 auto;
+        justify-content: center;
+    }
+}
